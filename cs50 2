@@ -1,0 +1,9 @@
+
+include<cs50.h>
+include < stdio.h>
+{
+int main ( ) { string name = John> 
+int age = 16;
+printf (" students name: %s \n", name);
+printf ( " students age : %d \n, age); 
+}
